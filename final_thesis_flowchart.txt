@@ -1,0 +1,13 @@
+- Abstract
+- Main Body
+    1. Introduction
+    2. Description of Problem
+    3. Current methods
+    4. Description of on the Edge ML
+    5. Proposed Solution
+    6. Simulation of Proposed Solution
+    7. Explanation of results
+    8. External Uses
+    9. Possible Future Development
+    10. Conflict of Interest
+- Bibliography
